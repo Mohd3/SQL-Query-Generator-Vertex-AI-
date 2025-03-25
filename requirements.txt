@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-google-vertexai
+google-cloud-aiplatform
+pymysql
+streamlit
+pandas
+numpy==1.24.4
+typing_extensions
